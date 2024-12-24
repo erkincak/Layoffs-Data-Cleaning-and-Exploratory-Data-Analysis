@@ -18,3 +18,46 @@ Here are the steps we took in the cleaning process:
    
 ![image alt]( https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/45c2154aab651bd5997ef0c9ca762cf45e6afc8e/toplayoffs.png)
 
+2) Layoffs by date
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/0.png)
+   
+3) Layoffs by years
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/9.png)
+   
+4) Layoffs by stages
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/8.png)
+   
+5) Total Layoffs by companies
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/7.png)
+      
+6) Layoffs by months
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/6.png)
+   
+7) Monthly layoffs and total layoffs on a monthly basis.
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/5.png)
+   
+8) Total layoffs a company made in which year
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/4.png)
+
+9) The 5 biggest layoffs every year
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/3.png)
+   
+10) Layoffs percentage by companies
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/2.png)
+
+11) Layoffs percentage by stage of the company
+
+![image alt](https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/8a0a19683fafd24f89f08e6a11a8820cc89c5665/img/1.png)
+   
+
+   
+
