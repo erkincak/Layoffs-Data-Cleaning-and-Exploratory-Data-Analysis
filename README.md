@@ -14,4 +14,6 @@ Here are the steps we took in the cleaning process:
 
 
 ## Exploratory Data Analysis
+1) Total layoffs in countries
+  ![plot]()
 
