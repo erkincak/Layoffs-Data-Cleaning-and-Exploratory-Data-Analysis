@@ -15,5 +15,6 @@ Here are the steps we took in the cleaning process:
 
 ## Exploratory Data Analysis
 1) Total layoffs in countries
+   
 ![image alt]( https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/45c2154aab651bd5997ef0c9ca762cf45e6afc8e/toplayoffs.png)
 
