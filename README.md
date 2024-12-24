@@ -12,3 +12,6 @@ Here are the steps we took in the cleaning process:
 - **Handling Null Values and Blanks**: Addressed missing or incomplete data points by either filling in the gaps or removing them as necessary.
 - **Removing Columns and Rows**: Streamlined the dataset by removing irrelevant columns and rows that do not contribute to our analysis objectives.
 
+
+## Exploratory Data Analysis
+
