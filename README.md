@@ -14,6 +14,9 @@ Here are the steps we took in the cleaning process:
 
 
 ## Exploratory Data Analysis
+We are going to analyze layoffs in companies . I tried to obtain a report with this data we obtained from different companies in 51 countries.In this data set, which took place between 2020 and 2023, Amazon laid off the most people with 18,150. And the country with the most layoffs is the United States, with 256,420.For more and detailed information, you can check below.
+
+
 1) Total layoffs in countries
    
 ![image alt]( https://github.com/erkincak/Layoffs-Data-Cleaning-and-Exploratory-Data-Analysis/blob/45c2154aab651bd5997ef0c9ca762cf45e6afc8e/toplayoffs.png)
