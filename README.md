@@ -14,7 +14,7 @@ Here are the steps we took in the cleaning process:
 
 
 ## Exploratory Data Analysis
-We are going to analyze layoffs in companies . I tried to obtain a report with this data we obtained from different companies in 51 countries.In this data set, which took place between 2020 and 2023, Amazon laid off the most people with 18,150. And the country with the most layoffs is the United States, with 256,420.For more and detailed information, you can check below.
+We are going to analyze layoffs in companies . Data was obtained from companies in 51 different countries, which took place between 2020 and 2023.The analysis of layoffs in this dataset was done using many functions with MySQL. The results obtained are indicated with explanation lines. For more and detailed information, you can check below.
 
 
 1) Total layoffs in countries
